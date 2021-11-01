@@ -11,7 +11,7 @@ const app = express();
 
 require('./config/db')();
 require('./config/middleware')(app);
-
+ 
 // cookie session
 app.use(
   cookieSession({
