@@ -1,4 +1,4 @@
-<h1 align="center">register and login system</h1>
+<h1 align="center">Register and login system</h1>
 
 <p align="center">
     <img src="https://urlz.fr/gIHu" width="500px" />
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Resistration and login system ! Built with NodeJs and Express
+  Registration and login system ! Built with NodeJs and Express
 </p>
 
 <p align="center">
