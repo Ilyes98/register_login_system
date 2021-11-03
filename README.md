@@ -24,7 +24,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Clone the project to your local machine
 
 ```bash
-https://github.com/Ilyes98/register_login_system.git
+git clone https://github.com/Ilyes98/register_login_system.git
 ```
 ### Install the packages required
 
